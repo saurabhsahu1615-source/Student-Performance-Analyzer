@@ -74,9 +74,9 @@ The system currently supports four subjects:
 
 
 
-```text
 
-Student Performance Analyzer/
+
+Student Performance Analyzer
 
 ├── main.py
 
@@ -90,13 +90,9 @@ Student Performance Analyzer/
 
 ├── report.py
 
-└── diagrams/
-
-&#x20;   ├── System\_Architecture\_Diagram.drawio
+└── diagrams
 
 &#x20;   ├── System\_Architecture\_Diagram.png
-
-&#x20;   ├── Workflow\_Diagram.drawio
 
 &#x20;   ├── Workflow\_Diagram.png
 
